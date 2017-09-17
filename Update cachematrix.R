@@ -62,14 +62,3 @@
  +[2,]  0.125  0.375 -0.375
  +[3,] -0.875  2.375 -1.375
  +
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
